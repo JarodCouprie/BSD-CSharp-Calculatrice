@@ -1,0 +1,15 @@
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.csproj.AssemblyReference.cache
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.AssemblyInfoInputs.cache
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.AssemblyInfo.cs
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\jarod\source\repos\TP1Calculatrice\bin\Debug\net6.0\TP1Calculatrice.exe
+C:\Users\jarod\source\repos\TP1Calculatrice\bin\Debug\net6.0\TP1Calculatrice.deps.json
+C:\Users\jarod\source\repos\TP1Calculatrice\bin\Debug\net6.0\TP1Calculatrice.runtimeconfig.json
+C:\Users\jarod\source\repos\TP1Calculatrice\bin\Debug\net6.0\TP1Calculatrice.dll
+C:\Users\jarod\source\repos\TP1Calculatrice\bin\Debug\net6.0\TP1Calculatrice.pdb
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.dll
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\refint\TP1Calculatrice.dll
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.pdb
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\TP1Calculatrice.genruntimeconfig.cache
+C:\Users\jarod\source\repos\TP1Calculatrice\obj\Debug\net6.0\ref\TP1Calculatrice.dll
